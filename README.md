@@ -10,10 +10,10 @@
 
 1) To run the data collector annotator
 
-  cd data_annotator_tool
-  grunt serve
+    cd data_annotator_tool
+    grunt serve
 
 2) To run the the server
 
-  cd server
-  ./manage.py runserver
+    cd server
+    ./manage.py runserver
