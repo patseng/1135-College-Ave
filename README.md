@@ -3,7 +3,13 @@
 
 <h1> Installations </h1>
 
-  Everyone needs NPM installed and Django and some more things :/
+Despite the fact the we are using Django, everyone needs to install node
+
+    http://nodejs.org/download/
+
+Then you need to install yeoman:
+
+    npm install -g yo
 
 
 <h1> Running The Front End and the Server </h1>
