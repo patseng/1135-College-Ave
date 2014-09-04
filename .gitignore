@@ -1,0 +1,5 @@
+data_annotator_tool/node_modules
+data_annotator_tool/dist
+data_annotator_tool/.tmp
+data_annotator_tool/.sass-cache
+data_annotator_tool/bower_components
